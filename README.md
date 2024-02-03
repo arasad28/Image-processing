@@ -1,6 +1,6 @@
 # Image-processing
 
 ## projects
-### face detection
-### number plate detection
-### object detection
+### 1. face detection
+### 2. number plate detection
+### 3. object detection
